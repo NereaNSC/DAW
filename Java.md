@@ -91,16 +91,14 @@ Mencional personas y equipos
   > [!IMPORTANT]
   > Nota importante
   
-  > [!WARMING]
+  > [!WARNING]
   > Nota de Alerta
 
   > [!CAUTION]
-  > Nota de precaución     
+  > Nota de precaución
 
+# Comentario 
+  <!--Comentario-->
 
-  
-
-
-
-
-  
+# Ignorar formato de Markdown
+  Ignorar formato de Markdown \*primer ejemplo* y *\segundo ejemplo*. 
