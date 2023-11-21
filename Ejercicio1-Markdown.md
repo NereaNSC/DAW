@@ -29,8 +29,9 @@
   1. Tercer elemento
 
 ## Imágenes 
-  A continuación se muestra una imagen insertada. La imagen está disponible en la URL indicada en las claves de resolución del caso práctico. 
-  ![Open Source](https://www.freepik.es/foto-gratis/experiencia-programacion-persona-que-trabaja-codigos-computadora_38669459.htm#query=web%20testing&position=0&from_view=keyword&track=ais&uuid=c5f44766-ad4f-476a-9d4b-00d7aaa1c164)
+  A continuación se muestra una imagen insertada. La imagen está disponible en la URL indicada en las claves de resolución del caso práctico.   
+  
+![Open Source](https://www.freepik.es/foto-gratis/experiencia-programacion-persona-que-trabaja-codigos-computadora_38669459.htm#query=web%20testing&position=0&from_view=keyword&track=ais&uuid=c5f44766-ad4f-476a-9d4b-00d7aaa1c164)
   
 ## Enlaces 
   Esto es un [enlace a Google](https://www.google.com/?hl=es).
